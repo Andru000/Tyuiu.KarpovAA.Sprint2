@@ -47,6 +47,7 @@ namespace Tyuiu.KarpovAA.Sprint2.Task0.V27
                 Console.WriteLine(res[i]);
             }
 
+
             Console.ReadKey();
         }
     }
