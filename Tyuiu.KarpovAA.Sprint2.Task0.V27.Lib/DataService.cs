@@ -15,8 +15,8 @@ namespace Tyuiu.KarpovAA.Sprint2.Task0.V27.Lib
             bool[] res = new bool[6];
 
             res[0] = x == y + 1030;
-            res[1] = x < y;
-            res[2] = x != y;
+            res[1] = x != y + 1030;
+            res[2] = x < y + 5030;
             res[3] = x > 5000 + y;
             res[4] = x <= y;
             res[5] = x >= y;
